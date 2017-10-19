@@ -1,0 +1,10 @@
+C:\Users\topo\Desktop\SearchByImage\retrieveImageFeatures\bin\retrieveImageFeatures.dll.config
+C:\Users\topo\Desktop\SearchByImage\retrieveImageFeatures\bin\retrieveImageFeatures.dll
+C:\Users\topo\Desktop\SearchByImage\retrieveImageFeatures\bin\retrieveImageFeatures.pdb
+C:\Users\topo\Desktop\SearchByImage\retrieveImageFeatures\bin\CEDD_Descriptor.dll
+C:\Users\topo\Desktop\SearchByImage\retrieveImageFeatures\bin\Npgsql.dll
+C:\Users\topo\Desktop\SearchByImage\retrieveImageFeatures\bin\CEDD_Descriptor.pdb
+C:\Users\topo\Desktop\SearchByImage\retrieveImageFeatures\bin\Npgsql.xml
+C:\Users\topo\Desktop\SearchByImage\retrieveImageFeatures\obj\Debug\SearchByImageServer.csprojResolveAssemblyReference.cache
+C:\Users\topo\Desktop\SearchByImage\retrieveImageFeatures\obj\Debug\retrieveImageFeatures.dll
+C:\Users\topo\Desktop\SearchByImage\retrieveImageFeatures\obj\Debug\retrieveImageFeatures.pdb

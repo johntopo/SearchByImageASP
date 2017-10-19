@@ -1,0 +1,39 @@
+c:\users\topo\documents\visual studio 2013\Projects\polimesikesVaseisErgasia\retrieveImageFeatures\bin\retrieveImageFeatures.dll.config
+c:\users\topo\documents\visual studio 2013\Projects\polimesikesVaseisErgasia\retrieveImageFeatures\bin\retrieveImageFeatures.dll
+c:\users\topo\documents\visual studio 2013\Projects\polimesikesVaseisErgasia\retrieveImageFeatures\bin\retrieveImageFeatures.pdb
+c:\users\topo\documents\visual studio 2013\Projects\polimesikesVaseisErgasia\retrieveImageFeatures\obj\Debug\retrieveImageFeatures.csprojResolveAssemblyReference.cache
+c:\users\topo\documents\visual studio 2013\Projects\polimesikesVaseisErgasia\retrieveImageFeatures\obj\Debug\retrieveImageFeatures.dll
+c:\users\topo\documents\visual studio 2013\Projects\polimesikesVaseisErgasia\retrieveImageFeatures\obj\Debug\retrieveImageFeatures.pdb
+c:\users\topo\documents\visual studio 2013\Projects\polimesikesVaseisErgasia\retrieveImageFeatures\bin\Npgsql.dll
+c:\users\topo\documents\visual studio 2013\Projects\polimesikesVaseisErgasia\retrieveImageFeatures\bin\Npgsql.xml
+c:\Users\topo\Documents\Visual Studio 2013\Projects\polimesikesVaseisErgasia\retrieveImageFeatures\bin\ZedGraph.dll
+C:\sxoli\polimesikesVaseisErgasia\retrieveImageFeatures\bin\retrieveImageFeatures.dll.config
+C:\sxoli\polimesikesVaseisErgasia\retrieveImageFeatures\bin\retrieveImageFeatures.dll
+C:\sxoli\polimesikesVaseisErgasia\retrieveImageFeatures\bin\retrieveImageFeatures.pdb
+C:\sxoli\polimesikesVaseisErgasia\retrieveImageFeatures\bin\Npgsql.dll
+C:\sxoli\polimesikesVaseisErgasia\retrieveImageFeatures\bin\Npgsql.xml
+C:\sxoli\polimesikesVaseisErgasia\retrieveImageFeatures\obj\Debug\retrieveImageFeatures.csprojResolveAssemblyReference.cache
+C:\sxoli\polimesikesVaseisErgasia\retrieveImageFeatures\obj\Debug\retrieveImageFeatures.dll
+C:\sxoli\polimesikesVaseisErgasia\retrieveImageFeatures\obj\Debug\retrieveImageFeatures.pdb
+C:\sxoli\polimesikesVaseisErgasia\retrieveImageFeatures\bin\CEDD_Descriptor.dll
+C:\sxoli\polimesikesVaseisErgasia\retrieveImageFeatures\bin\CEDD_Descriptor.pdb
+C:\Users\topo\Desktop\polimesikesVaseisErgasia\retrieveImageFeatures\bin\retrieveImageFeatures.dll.config
+C:\Users\topo\Desktop\polimesikesVaseisErgasia\retrieveImageFeatures\bin\retrieveImageFeatures.dll
+C:\Users\topo\Desktop\polimesikesVaseisErgasia\retrieveImageFeatures\bin\retrieveImageFeatures.pdb
+C:\Users\topo\Desktop\polimesikesVaseisErgasia\retrieveImageFeatures\bin\CEDD_Descriptor.dll
+C:\Users\topo\Desktop\polimesikesVaseisErgasia\retrieveImageFeatures\bin\Npgsql.dll
+C:\Users\topo\Desktop\polimesikesVaseisErgasia\retrieveImageFeatures\bin\CEDD_Descriptor.pdb
+C:\Users\topo\Desktop\polimesikesVaseisErgasia\retrieveImageFeatures\bin\Npgsql.xml
+C:\Users\topo\Desktop\polimesikesVaseisErgasia\retrieveImageFeatures\obj\Debug\retrieveImageFeatures.csprojResolveAssemblyReference.cache
+C:\Users\topo\Desktop\polimesikesVaseisErgasia\retrieveImageFeatures\obj\Debug\retrieveImageFeatures.dll
+C:\Users\topo\Desktop\polimesikesVaseisErgasia\retrieveImageFeatures\obj\Debug\retrieveImageFeatures.pdb
+C:\Users\topo\Desktop\SearchByImage\retrieveImageFeatures\bin\retrieveImageFeatures.dll.config
+C:\Users\topo\Desktop\SearchByImage\retrieveImageFeatures\bin\retrieveImageFeatures.dll
+C:\Users\topo\Desktop\SearchByImage\retrieveImageFeatures\bin\retrieveImageFeatures.pdb
+C:\Users\topo\Desktop\SearchByImage\retrieveImageFeatures\bin\CEDD_Descriptor.dll
+C:\Users\topo\Desktop\SearchByImage\retrieveImageFeatures\bin\Npgsql.dll
+C:\Users\topo\Desktop\SearchByImage\retrieveImageFeatures\bin\CEDD_Descriptor.pdb
+C:\Users\topo\Desktop\SearchByImage\retrieveImageFeatures\bin\Npgsql.xml
+C:\Users\topo\Desktop\SearchByImage\retrieveImageFeatures\obj\Debug\retrieveImageFeatures.csprojResolveAssemblyReference.cache
+C:\Users\topo\Desktop\SearchByImage\retrieveImageFeatures\obj\Debug\retrieveImageFeatures.dll
+C:\Users\topo\Desktop\SearchByImage\retrieveImageFeatures\obj\Debug\retrieveImageFeatures.pdb

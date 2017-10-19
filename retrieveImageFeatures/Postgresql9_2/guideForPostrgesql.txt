@@ -1,0 +1,42 @@
+﻿//this code is needed for set up postgresql
+
+//create db
+CREATE DATABASE "ImagesDB"
+  WITH OWNER = topo
+       ENCODING = 'UTF8'
+       TABLESPACE = pg_default
+       CONNECTION LIMIT = -1;
+
+//create table
+CREATE TABLE imagesdescriptortbl
+(
+  id serial NOT NULL,
+  name text,
+  descriptor real[]
+)
+WITH (
+  OIDS=FALSE
+);
+ALTER TABLE imagesdescriptortbl
+  OWNER TO topo;
+
+//create function to find euclidian distance between 2 arrays
+CREATE OR REPLACE FUNCTION distance(l real[], r real[])
+  RETURNS real AS
+$BODY$
+DECLARE
+  s real;
+BEGIN
+  s := 0;
+  FOR i IN 1..array_length(l, 1) LOOP
+    s := s + ((l[i] - r[i]) * (l[i] - r[i]));
+  END LOOP;
+  RETURN |/ s;
+END;
+$BODY$
+  LANGUAGE plpgsql VOLATILE
+  COST 100;
+ALTER FUNCTION distance(real[], real[])
+  OWNER TO topo;
+ 
+

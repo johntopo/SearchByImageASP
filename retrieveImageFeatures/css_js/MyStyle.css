@@ -1,0 +1,9 @@
+﻿input[type="checkbox"] { display: none; }
+
+
+.fu { margin-bottom: 25px; }
+
+.fuLabel {
+    font-size: 20px;
+    font-family: Arial;
+}
